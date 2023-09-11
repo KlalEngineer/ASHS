@@ -19,12 +19,12 @@ https://downloads.arduino.cc/libraries/github.com/adafruit/DHT_sensor_library-1.
 #define HARDWARE_TEST true 
 
 // Place your network credentials
-// const char* ssid = "place-your-network-name-here";
-// const char* password = "place-your-network-password-here";
-// const char* ssid = "Samsung_HotSpot";
-// const char* password = "testing2468";
-const char* ssid = "kHotSpot";
-const char* password = "abcd1234e";
+const char* ssid = "place-your-network-name-here";
+const char* password = "place-your-network-password-here";
+
+
+
+
 
 
 
